@@ -4,7 +4,7 @@ title: Privacy Policy
 include_in_header: false
 ---
 
-#Terms & Conditions of Use
+# Terms & Conditions of Use
 ### Multiverse Studios, LLC
 Effective Date: January 1, 2020 --- Last modified: January 1, 2020
 
