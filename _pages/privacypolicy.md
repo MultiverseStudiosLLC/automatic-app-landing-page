@@ -944,7 +944,7 @@ If you delete your User Contributions from the App, copies of your User
 Contributions may remain viewable in cached and archived pages or might
 have been copied or stored by other App users. Proper access and use of
 information provided on the App, including User Contributions, is
-governed by our [[Terms & Conditions]{.underline}](#1-these-terms).
+governed by our [Terms & Conditions](#1-these-terms).
 
 # 12 Your California privacy rights
 
@@ -994,7 +994,7 @@ practices, contact us at contact\@gratedate.app.
 16.1 Personal Data Collection and Use
 
 Our Mobile Application Privacy Policy, located
-[[here]{.underline}](#mobile-application-privacy-policy),
+[here](#mobile-application-privacy-policy),
 describes the categories of EEA Personal Data that we may receive in the
 US as well as the purposes for which we use that EEA Personal Data. The
 Company will only process EEA Personal Data in ways that are compatible
