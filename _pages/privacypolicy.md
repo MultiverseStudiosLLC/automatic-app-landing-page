@@ -38,8 +38,8 @@ injunctive, and declaratory relief) on an individual basis. By entering
 this agreement, you expressly acknowledge that you have read and
 understand all of the terms of this agreement, including but not limited
 to the sections regarding arbitration.**
-
-#1. These Terms
+ 
+# 1. These Terms
 ------------------------
 1.1 What these Terms & Conditions cover
 
@@ -62,7 +62,7 @@ Apple Media Services Terms and Conditions or the Google Play Terms of
 Services (each, the "[End-User License Agreement](https://www.apple.com/legal/internet-services/itunes/dev/stdeula/)"), you
 should not use the App or access any of its Content.
 
-#2. Information about us and how to contact us
+# 2. Information about us and how to contact us
 ------------------------
 
 2.1 Who we are
@@ -85,7 +85,7 @@ social media method you used to contact us.
 When we use the words "writing" or "written" in these terms, this
 includes emails.
 
-#3. Our contract with you
+# 3. Our contract with you
 -------------------------------
 
 3.1 Your Eligibility to use our APP
@@ -295,7 +295,7 @@ extent of its effectiveness, if any, are not fully known. You,
 therefore, agree to assume and accept full responsibility for any and
 all risks associated with using this app and the content.
 
-#5 Your rights to make changes
+# 5 Your rights to make changes
 -------------------------------------------------
 
 5.1 If you wish to make a change to your Subscription
@@ -303,7 +303,7 @@ all risks associated with using this app and the content.
 Please contact the source from which you purchased and downloaded the
 App (Apple Store for iOS devices and Google Play for Android devices).
 
-#6 Our rights to make changes
+# 6 Our rights to make changes
 ---------------------------------
 
 6.1 Changes to the Content or Pricing
@@ -315,7 +315,7 @@ Content or implementing updates to reflect changes in relevant laws. We
 may change the pricing of any of the Subscriptions at any time in our
 sole discretion.
 
-#7 Providing Access
+# 7 Providing Access
 ------------------------------------------
 
 7.1 When we will provide access to the Content
@@ -370,7 +370,7 @@ conduct and acceptable content, and including all applicable laws
 regarding the transmission of technical data exported from the United
 States or the country in which you reside).
 
-#8 Subscriptions and payments are governed by the end-user license agreement
+# 8 Subscriptions and payments are governed by the end-user license agreement
 -----------------------------------
 
 8.1 Automatic renewal
@@ -384,7 +384,7 @@ Any questions regarding payments should be directed to the source from
 which you downloaded the App (Apple Store or Google Play) and are
 governed by the applicable End-User License Agreement.
 
-#9 How to terminate the Services
+# 9 How to terminate the Services
 -----------------------------------
 
 9.1 To terminate your access to the App
@@ -402,7 +402,7 @@ survive, will survive, including, without limitation, ownership
 provisions, warranty disclaimers, limitations of liability, and dispute
 resolution provisions.
 
-#10 Our rights to end the Contract
+# 10 Our rights to end the Contract
 ----------------------
 
 10.1 App access termination
@@ -412,7 +412,7 @@ for no reason, in our sole discretion, including but not limited to
 breach of these Terms & Conditions or your failure to timely make any
 Subscription payment.
 
-#11 If there is a problem with the Subscription
+# 11 If there is a problem with the Subscription
 -----------------------------
 
 11.1 How to tell us about problems
@@ -421,7 +421,7 @@ If you have any questions or complaints about the Subscription, please
 contact us. You can email our customer service team at
 contact\@gratedate.app.
 
-#12 Price and Payment
+# 12 Price and Payment
 --------------------------------------------
 
 12.1 Where to find the price for the Subscription
@@ -443,7 +443,7 @@ App and accept these Terms & Conditions and Privacy Policy as well as
 the End-User License Agreement, you will have limited access to the
 Content without a Subscription.
 
-#13 We offer no warranties; we limit our liability to you, and you agree to indemnify us.
+# 13 We offer no warranties; we limit our liability to you, and you agree to indemnify us.
 --------------------------------------------
 
 13.1 No Warranty
@@ -514,13 +514,13 @@ Terms & Conditions, the End-User License Agreement, or any intellectual
 property or other right of any person or entity, by you or any third
 party you have authorized to act on your behalf.
 
-#14 How we may use your personal information
+# 14 How we may use your personal information
 --------------------------------------------
 
 14.1 We will only use your personal information as set out in our [[privacy policy]{.underline}](#mobile-application-privacy-policy).
 
-
-#15 Other important terms
+ 
+# 15 Other important terms
 --------------------------------------------
 
 15.1 We may transfer this agreement to someone else
@@ -658,7 +658,7 @@ Effective Date: January 1, 2020 — Last modified: January 1, 2020
 Below you will find our Privacy Policy.
 
 
-#1 Introduction
+# 1 Introduction
 -----------------
 
 The Multiverse Studios, LLC ("**Company**" or "**We**") respects your
@@ -682,7 +682,7 @@ time. Your continued use of this App after we make changes is deemed to
 be acceptance of those changes, so please check the policy periodically
 for updates.
 
-#2 Children under the age of 13
+# 2 Children under the age of 13
 -----------------
 
 The Company forbids the use of the App by persons under 18 years of age,
@@ -692,8 +692,8 @@ information from a child under 13 without verification of parental
 consent, we will delete that information. If you believe we might have
 any information from or about a child under 13, please contact us at
 contact\@gratedate.app.
-
-#3 Information we collect and how we collect it
+ 
+# 3 Information we collect and how we collect it
 -----------------
 
 We collect information from and about users of our App:
@@ -748,7 +748,7 @@ Contributions will not be viewed by unauthorized persons. You may not
 use the App or any of its Content for any research-related purpose
 without the written consent from an executive of the Company.
 
-#5 Automatic Information Collection and Tracking
+# 5 Automatic Information Collection and Tracking
 -----------------
 
 When you download, access, and use the App, it may use technology to
@@ -783,7 +783,7 @@ We also may use these technologies to collect information about your
 activities over time and across third-party websites, apps, or other
 online services (behavioral tracking).
 
-#6 Information Collection and Tracking Technologies
+# 6 Information Collection and Tracking Technologies
 -----------------
 
 The technologies we use for automatic information collection may
@@ -805,14 +805,14 @@ and server integrity).
 
 c)  **Client IDs**. Your account identification.
 
-#7 Third-party information collection
+# 7 Third-party information collection
 -----------------
 
 We do not share your application data with any third parties, nor use
 automatic information collection technologies to collect information
 about you or your device to be shared with any third-party.
 
-#8 How we use your information
+# 8 How we use your information
 -----------------
 
 We use information that we collect about you or that you provide to us,
@@ -861,7 +861,7 @@ purposes.
 We may also use your information to contact you about our goods and
 services that may be of interest to you.
 
-#9 Disclosure of your information
+# 9 Disclosure of your information
 -----------------
 
 We may disclose aggregated information about our users and information
@@ -913,7 +913,7 @@ is there any guarantee that any user symptoms will be improved by
 such research, nor any guarantee that any user may receive any
 benefit from such research.
 
-#10 Your choices about our collection, use, and disclosure of your information
+# 10 Your choices about our collection, use, and disclosure of your information
 -----------------
 
 We strive to provide you with choices regarding the personal information
@@ -936,7 +936,7 @@ c)  **Promotion by the Company.** If you do not want us to use your
 contact information to promote our own or third parties' products or
 services, you can opt-out by either unsubscribing from any emails
 you receive with the link at the bottom of the email or email
-contact\@gratedate.app.
+<contact@gratedate.app>.
 
 d)  **Targeted Advertising by the Company.** If you do not want us to
 use information that we collect or that you provide to us to deliver
@@ -956,10 +956,10 @@ or used in this way. You can opt-out of receiving targeted ads from
 members of the Network Advertising Initiative ("**NAI**") on the NAI's
 [[website]{.underline}](http://www.networkadvertising.org/managing/opt_out.asp).
 
-#11 Accessing and correcting your personal information
+# 11 Accessing and correcting your personal information
 -----------------
 
-You may send us an email at <contact@>gratedate.app to request access
+You may send us an email at <contact@gratedate.app> to request access
 to, correct, or delete any personal information that you have provided
 to us. We cannot delete your personal information except by also
 deleting your user account. We may not accommodate a request to change
@@ -972,7 +972,7 @@ have been copied or stored by other App users. Proper access and use of
 information provided on the App, including User Contributions, is
 governed by our [[Terms & Conditions]{.underline}](#1-these-terms).
 
-#12 Your California privacy rights
+# 12 Your California privacy rights
 -----------------
 
 California Civil Code Section 1798.83 permits users of our App that are
@@ -981,7 +981,7 @@ disclosure of personal information to third parties for their direct
 marketing purposes. To make such a request, please send an email to
 contact\@gratedate.app.
 
-#13 Data Security
+# 13 Data Security
 -----------------
 
 We have implemented measures designed to secure your personal
@@ -1001,7 +1001,7 @@ your personal information transmitted through our App. Any transmission
 of personal information is at your own risk. We are not responsible for
 circumvention of any privacy settings or security measures we provide.
 
-#14 Changes to our privacy policy
+# 14 Changes to our privacy policy
 -----------------
 
 We may update our privacy policy from time to time. If we make material
@@ -1013,19 +1013,19 @@ the page. You are responsible for ensuring we have an up-to-date active
 and deliverable email address for you and for periodically visiting this
 privacy policy to check for any changes.
 
-#15 Contact information
+# 15 Contact information
 -----------------
 
 To ask questions or comment about this privacy policy and our privacy
 practices, contact us at contact\@gratedate.app.
 
-#16 For European Union customers and customers from the United Kingdom
+# 16 For European Union customers and customers from the United Kingdom
 -----------------
 
 16.1 Personal Data Collection and Use
 
 Our Mobile Application Privacy Policy, located
-[[here]{.underline}](file:///C:\Users\alex\AppData\Local\Temp\gratedate.app),
+[[here]{.underline}](#mobile-application-privacy-policy),
 describes the categories of EEA Personal Data that we may receive in the
 US as well as the purposes for which we use that EEA Personal Data. The
 Company will only process EEA Personal Data in ways that are compatible
@@ -1083,7 +1083,7 @@ may request specific information from you to confirm your identity. In
 some circumstances, we may charge a reasonable fee for access to your
 information.
 
-#17 Questions or Complaints
+# 17 Questions or Complaints
 -------
 
 You can direct any questions or complaints about the use or disclosure
@@ -1095,7 +1095,7 @@ cooperate with the EU data protection authorities. If you are
 unsatisfied with the resolution of your complaint, you may contact the
 EU data protection authorities for further information and assistance.
 
-#18 Binding Arbitration
+# 18 Binding Arbitration
 -------
 
 You may have the option to select binding arbitration for the resolution
@@ -1112,19 +1112,19 @@ above; and
 allowed the US Department of Commerce an opportunity to resolve the
 complaint at no cost to you.
 
-#19 Contact Us
+# 19 Contact Us
 -------
 
 If you have any questions about this Policy or would like to request
 access to your EEA Personal Data, please contact us at
 contact\@gratedate.app.
 
-#20 Changes to This Policy
+# 20 Changes to This Policy
 -------
 
 We reserve the right to amend this Policy from time to time.
 
-#21 Priority
+# 21 Priority
 -------
 
 If any of the terms of this Privacy Policy conflict with any of the
