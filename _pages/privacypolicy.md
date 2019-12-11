@@ -10,7 +10,7 @@ Effective Date: January 1, 2020 --- Last modified: January 1, 2020
 
 
 Below you will find our [Terms &
-Conditions](C:\\Users\\alex\\AppData\\Local\\Temp\\gratedate.app)
+Conditions](#1-these-terms)
 
 Welcome to Multiverse Studios. Please read these terms of service
 carefully before using the services offered by Multiverse Studios, LLC
@@ -24,7 +24,7 @@ related to Multiverse Studios for relationship and dating management and
 any other services provided by the Company (collectively, the
 "**Services**"). By accessing the App, you agree to be bound by the
 terms of these Terms & Conditions, which also incorporate the Company's
-[Privacy Policy](#4-our-product).
+[Privacy Policy](#mobile-application-privacy-policy).
 
 **Important notice: section 15.7 of these terms & conditions contain an
 arbitration agreement, which will require you to submit any claims you
@@ -59,7 +59,7 @@ and other relevant information. You understand that by using our App,
 you agree to these Terms & Conditions. If you do not agree to these
 Terms & Conditions, to our Privacy Policy, or, as applicable, to the
 Apple Media Services Terms and Conditions or the Google Play Terms of
-Services (each, the "[End-User License Agreement](https://TBD)"), you
+Services (each, the "[End-User License Agreement](https://www.apple.com/legal/internet-services/itunes/dev/stdeula/)"), you
 should not use the App or access any of its Content.
 
 #2. Information about us and how to contact us
@@ -125,47 +125,47 @@ have given you (or where you have chosen) a password for access to
 certain parts of our App, you are responsible for keeping this password
 confidential. You should not share your password with anyone.
 
-3.4 Your Use of the App	
+3.4 Your Use of the App    
 
 You may use the App for lawful, non-commercial purposes only. Without
 limiting the preceding, you agree that you shall not:
 
 -   use the App in any manner that could damage, disable, overburden, or
-    impair the Company, or interfere with any other party's use and
-    enjoyment of the App;
+impair the Company, or interfere with any other party's use and
+enjoyment of the App;
 
 -   attempt to gain unauthorized access to the App through hacking,
-    password mining or any other means, or otherwise attempt to bypass
-    any measures the Company may use to prevent or restrict access to
-    the App or Content;
+password mining or any other means, or otherwise attempt to bypass
+any measures the Company may use to prevent or restrict access to
+the App or Content;
 
 -   copy, modify, adapt, translate, or reverse engineer any portion of
-    the App or its Content;
+the App or its Content;
 
 -   remove any copyright, trademark or other proprietary rights notices
-    contained in, on or through the App or in or on any Content or other
-    material obtained via the App;
+contained in, on or through the App or in or on any Content or other
+material obtained via the App;
 
 -   modify, adapt, appropriate, reproduce, distribute, translate, create
-    derivative works or adaptations of, publicly display, republish,
-    repurpose, sell, trade, or in any way exploit the App or the
-    Content, except as expressly authorized by the Company;
+derivative works or adaptations of, publicly display, republish,
+repurpose, sell, trade, or in any way exploit the App or the
+Content, except as expressly authorized by the Company;
 
 -   not knowingly transmit false or misleading information through the
-    App;
+App;
 
 -   use the App or any of its Content for any research-related purpose
-    without the written consent from an executive of the Company;
+without the written consent from an executive of the Company;
 
 -   use any robot, spider, site search/retrieval application, or other
-    automated devices, process or means to access, retrieve, harvest,
-    scrape or index any portion of the App or Content
+automated devices, process or means to access, retrieve, harvest,
+scrape or index any portion of the App or Content
 
 -   create user accounts by automated means or under false or fraudulent
-    pretenses; or
+pretenses; or
 
 -   use the App in any manner that does not comply with the Company's
-    rules and policies and all applicable laws, rules, and regulations.
+rules and policies and all applicable laws, rules, and regulations.
 
 3.5 Changes to these Terms
 
@@ -190,7 +190,7 @@ an executive officer of the Company. All other names, logos, product and
 service names, designs, and slogans on the App are the trademarks of
 their respective owners.
 
-3.7 End-User License Agreement ([EULA](https://TBD))
+3.7 End-User License Agreement ([EULA](https://www.apple.com/legal/internet-services/itunes/dev/stdeula/))
 
 The limited, non-transferable license you are provided to download and
 use the App is for your own personal use and is subject to the terms of
@@ -225,7 +225,7 @@ presentations, and marketing materials.
 # 4 Our Product
 ---------------------------
 
-4.1 	The Product and your Access
+4.1     The Product and your Access
 
 The Content, as defined below, is available to you through the App. Some
 of the Content is available to you by downloading the App and accepting
@@ -340,13 +340,13 @@ We may have to suspend your access to the Content to:
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a)  deal with technical problems or make minor technical changes;
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;b)  update the Content to reflect changes in relevant laws and
-    regulatory requirements;
+regulatory requirements;
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;c)  make changes to the Content in our sole discretion or at the request
-    of the Apple Store or Google Play;
+of the Apple Store or Google Play;
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;d)  address requests or directives from law enforcement or other
-    authority; or
+authority; or
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;e)  due to your violation of these Terms & Conditions.
 
@@ -517,7 +517,7 @@ party you have authorized to act on your behalf.
 #14 How we may use your personal information
 --------------------------------------------
 
-14.1 We will only use your personal information as set out in our [[privacy policy]{.underline}](http://tbd).
+14.1 We will only use your personal information as set out in our [[privacy policy]{.underline}](#mobile-application-privacy-policy).
 
 
 #15 Other important terms
@@ -650,7 +650,7 @@ Multiverse Studios, LLC
 
 Effective Date: January 1, 2020 --- Last modified: January 1, 2020
 
-Below you will find our [[Privacy Policy]{.underline}](https://tbd).
+Below you will find our [[Privacy Policy]{.underline}](#mobile-application-privacy-policy).
 
 # MOBILE APPLICATION PRIVACY POLICY
 ### Multiverse Studios, LLC
@@ -666,10 +666,10 @@ privacy and is committed to protecting it through our compliance with
 this policy. This policy describes:
 
 -   The types of information we may collect or that you may provide when
-    you access or use the Company's mobile application (the "App").
+you access or use the Company's mobile application (the "App").
 
 -   Our practices for collecting, using, maintaining, protecting, and
-    disclosing that information.
+disclosing that information.
 
 Please read this policy carefully to understand our policies and
 practices regarding your information and how we will treat it. If you do
@@ -677,7 +677,7 @@ not agree with our policies and practices, do not download, register
 with, or use this App. By downloading, registering with, or using this
 App, you agree to this privacy policy. Any capitalized term used but not
 defined in this privacy policy will have the meaning defined in the
-[Terms & Conditions](https://TBD). This policy may change from time to
+[Terms & Conditions](#1-these-terms). This policy may change from time to
 time. Your continued use of this App after we make changes is deemed to
 be acceptance of those changes, so please check the policy periodically
 for updates.
@@ -709,34 +709,34 @@ When you download, register with, or use this App, we may ask you to
 provide information:
 
 -   By which you may be personally identified, such as name, postal
-    address, email address, telephone number, or any other information
-    the App collects that is defined as personal or personally
-    identifiable information under applicable law ("**personal
-    information**").
+address, email address, telephone number, or any other information
+the App collects that is defined as personal or personally
+identifiable information under applicable law ("**personal
+information**").
 
 -   That is about you, but individually does not identify you.
 
 This information includes:
 
 -   Information that you provide by filling in forms in the App. This
-    includes information provided at the time of registering to use the
-    App and purchasing a Subscription. We may also ask you for
-    information when you enter a contest or promotion sponsored by us
-    and when you report a problem with the App.
+includes information provided at the time of registering to use the
+App and purchasing a Subscription. We may also ask you for
+information when you enter a contest or promotion sponsored by us
+and when you report a problem with the App.
 
 -   Records and copies of your correspondence (including email addresses
-    and phone numbers), if you contact us.
+and phone numbers), if you contact us.
 
 -   Your responses to surveys that we might ask you to complete for
-    research purposes.
+research purposes.
 
 -   Details of transactions you carry out through the App and of the
-    fulfillment of your orders, including your subscription order.
+fulfillment of your orders, including your subscription order.
 
 -   Your search queries on the App.
 
 -   Any of your input made through the App, including your pre and
-    post-meditation rating.
+post-meditation rating.
 
 You may provide information to be published or displayed ("**Posted**")
 on public areas of websites or social media you access through or
@@ -755,23 +755,23 @@ When you download, access, and use the App, it may use technology to
 collect automatically:
 
 a)  **Usage Details**. When you access and use the App, we may
-    automatically collect details of your access to and use of the App,
-    including traffic data, location data, logs, and other communication
-    data and the resources that you access and use on or through the
-    App.
+automatically collect details of your access to and use of the App,
+including traffic data, location data, logs, and other communication
+data and the resources that you access and use on or through the
+App.
 
 b)  **Device Information**. We may collect information about your mobile
-    device and internet connection, including the device's unique device
-    identifier, IP address, operating system, browser type, mobile
-    network information, and the device's telephone number.
+device and internet connection, including the device's unique device
+identifier, IP address, operating system, browser type, mobile
+network information, and the device's telephone number.
 
 c)  **Stored Information and Files**. The App also may access metadata
-    and other information associated with other files stored on your
-    device. This may include, for example, photographs, audio and video
-    clips, personal contacts, and address book information.
+and other information associated with other files stored on your
+device. This may include, for example, photographs, audio and video
+clips, personal contacts, and address book information.
 
 d)  **Location Information**. This App may collect real-time information
-    about the location of your device.
+about the location of your device.
 
 e)  Mobile Device Phone Number.
 
@@ -790,18 +790,18 @@ The technologies we use for automatic information collection may
 include:
 
 a)  **Mobile cookies.** A cookie is a small file placed on your
-    smartphone. It may be possible to refuse to accept mobile cookies by
-    activating the appropriate setting on your smartphone. However, if
-    you select this setting, you may be unable to access certain parts
-    of our App.
+smartphone. It may be possible to refuse to accept mobile cookies by
+activating the appropriate setting on your smartphone. However, if
+you select this setting, you may be unable to access certain parts
+of our App.
 
 b)  **Web Beacons.** Pages of the App and our emails may contain small
-    electronic files known as web beacons (also referred to as clear
-    gifs, pixel tags, and single-pixel gifs) that permit the Company,
-    for example, to count users who have visited those pages or opened
-    an email and for other related app statistics (for example,
-    recording the popularity of certain app content and verifying system
-    and server integrity).
+electronic files known as web beacons (also referred to as clear
+gifs, pixel tags, and single-pixel gifs) that permit the Company,
+for example, to count users who have visited those pages or opened
+an email and for other related app statistics (for example,
+recording the popularity of certain app content and verifying system
+and server integrity).
 
 c)  **Client IDs**. Your account identification.
 
@@ -820,19 +820,19 @@ including any personal information, Feedback, suggestions, improvements,
 ideas, and testimonials to:
 
 -   Provide you with the App and its contents, and any other
-    information, products, or services that you request from us.
+information, products, or services that you request from us.
 
 -   Fulfill any other purpose for which you provide it.
 
 -   To permit Google or Apple, as applicable, to give you notices about
-    your subscription, including expiration and renewal notices.
+your subscription, including expiration and renewal notices.
 
 -   Carry out our obligations and enforce our rights arising from any
-    contracts entered into between you and us, including for billing and
-    collection.
+contracts entered into between you and us, including for billing and
+collection.
 
 -   Research the effects and outcomes of the Multiverse Studios
-    services, applications, and usefulness of the Content.
+services, applications, and usefulness of the Content.
 
 -   Notify you when App updates are available.
 
@@ -842,7 +842,7 @@ deliver a better and more personalized experience by enabling us to:
 -   Estimate our audience size and usage patterns.
 
 -   Store information about your preferences, allowing us to customize
-    our App according to your interests.
+our App according to your interests.
 
 -   Speed up your searches.
 
@@ -876,42 +876,42 @@ provide:
 -   To our subsidiaries and affiliates.
 
 -   To contractors, service providers, and other third parties, we use
-    to support our business.
+to support our business.
 
 -   To a buyer or other successor in the event of a merger, divestiture,
-    restructuring, reorganization, dissolution, or other sale or
-    transfer of some or all of the Company's assets, whether as a going
-    concern or as part of bankruptcy, liquidation, or similar
-    proceeding, in which personal information held by the Company about
-    our App users is among the assets transferred.
+restructuring, reorganization, dissolution, or other sale or
+transfer of some or all of the Company's assets, whether as a going
+concern or as part of bankruptcy, liquidation, or similar
+proceeding, in which personal information held by the Company about
+our App users is among the assets transferred.
 
 -   To fulfill the purpose for which you provide it.
 
 -   For any other purpose disclosed by us when you provide the
-    information.
+information.
 
 -   To comply with any court order, law, or legal process, including to
-    respond to any government or regulatory request.
+respond to any government or regulatory request.
 
 -   To enforce our rights arising from any contracts entered into
-    between you and us, including but not limited to the [Terms &
-    Conditions](http://tbd), and for billing and collection.
+between you and us, including but not limited to the [Terms &
+Conditions](#1-these-terms), and for billing and collection.
 
 -   If we believe disclosure is necessary or appropriate to protect the
-    rights, property, or safety of the Company, our customers, or
-    others. This includes exchanging information with other companies
-    and organizations for fraud protection and credit risk reduction.
+rights, property, or safety of the Company, our customers, or
+others. This includes exchanging information with other companies
+and organizations for fraud protection and credit risk reduction.
 
 -   For research purposes, including the sharing of **anonymized** data
-    collected by us for research purposes. Anonymization by us means
-    that any **information personal to users will be removed before data
-    analysis** and that **users cannot be identified in any way**
-    through the data. Research studies are designed to gain scientific
-    knowledge that may help other people in the future, but no promises
-    are being made to any user as to the results of such research, nor
-    is there any guarantee that any user symptoms will be improved by
-    such research, nor any guarantee that any user may receive any
-    benefit from such research.
+collected by us for research purposes. Anonymization by us means
+that any **information personal to users will be removed before data
+analysis** and that **users cannot be identified in any way**
+through the data. Research studies are designed to gain scientific
+knowledge that may help other people in the future, but no promises
+are being made to any user as to the results of such research, nor
+is there any guarantee that any user symptoms will be improved by
+such research, nor any guarantee that any user may receive any
+benefit from such research.
 
 #10 Your choices about our collection, use, and disclosure of your information
 -----------------
@@ -921,33 +921,33 @@ you provide to us. This section describes mechanisms we provide for you
 to control certain uses and disclosures of over your information.
 
 a)  **Tracking Technologies.** You can set your mobile browser to refuse
-    all or some mobile cookies or to alert you when mobile cookies are
-    being sent. If you disable or refuse mobile cookies or block the use
-    of other tracking technologies, some parts of the App may then be
-    inaccessible or not function properly.
+all or some mobile cookies or to alert you when mobile cookies are
+being sent. If you disable or refuse mobile cookies or block the use
+of other tracking technologies, some parts of the App may then be
+inaccessible or not function properly.
 
 b)  **Location Information.** You can choose whether or not to allow the
-    App to collect and use real-time information about your device's
-    location through the device's privacy settings. If you block the use
-    of location information, some parts of the App may then be
-    inaccessible or not function properly.
+App to collect and use real-time information about your device's
+location through the device's privacy settings. If you block the use
+of location information, some parts of the App may then be
+inaccessible or not function properly.
 
 c)  **Promotion by the Company.** If you do not want us to use your
-    contact information to promote our own or third parties' products or
-    services, you can opt-out by either unsubscribing from any emails
-    you receive with the link at the bottom of the email or email
-    contact\@gratedate.app.
+contact information to promote our own or third parties' products or
+services, you can opt-out by either unsubscribing from any emails
+you receive with the link at the bottom of the email or email
+contact\@gratedate.app.
 
 d)  **Targeted Advertising by the Company.** If you do not want us to
-    use information that we collect or that you provide to us to deliver
-    advertisements according to our advertisers' target-audience
-    preferences, you can opt-out by emailing contact\@gratedate.app.
+use information that we collect or that you provide to us to deliver
+advertisements according to our advertisers' target-audience
+preferences, you can opt-out by emailing contact\@gratedate.app.
 
 e)  **Disclosure of Your Information for Third-Party Advertising and
-    Marketing.** If you do not want us to share your personal
-    information with unaffiliated or non-agent third parties for
-    advertising and marketing purposes, you can opt-out by emailing
-    contact\@gratedate.app.
+Marketing.** If you do not want us to share your personal
+information with unaffiliated or non-agent third parties for
+advertising and marketing purposes, you can opt-out by emailing
+contact\@gratedate.app.
 
 We do not control third parties' collection or use of your information
 to serve interest-based advertising. However, these third parties may
@@ -970,7 +970,7 @@ If you delete your User Contributions from the App, copies of your User
 Contributions may remain viewable in cached and archived pages or might
 have been copied or stored by other App users. Proper access and use of
 information provided on the App, including User Contributions, is
-governed by our [[Terms & Conditions]{.underline}](https://TBD).
+governed by our [[Terms & Conditions]{.underline}](#1-these-terms).
 
 #12 Your California privacy rights
 -----------------
@@ -1103,14 +1103,14 @@ of your complaint under certain circumstances, provided you have taken
 the following steps:
 
 1)  raised your complaint directly with the Company and provided us the
-    opportunity to resolve the issue;
+opportunity to resolve the issue;
 
 2)  made use of the independent dispute resolution mechanism identified
-    above; and
+above; and
 
 3)  raised the issue through the relevant data protection authority and
-    allowed the US Department of Commerce an opportunity to resolve the
-    complaint at no cost to you.
+allowed the US Department of Commerce an opportunity to resolve the
+complaint at no cost to you.
 
 #19 Contact Us
 -------
@@ -1130,3 +1130,4 @@ We reserve the right to amend this Policy from time to time.
 If any of the terms of this Privacy Policy conflict with any of the
 terms of the applicable End-User License Agreement, the terms of this
 Privacy Policy shall prevail.
+
