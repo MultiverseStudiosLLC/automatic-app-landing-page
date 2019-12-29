@@ -12,7 +12,7 @@ presskit_download_link                    :                                     
 app_icon                                  : assets/appicon.png                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
 app_name                                  : GrateDate                                       # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price                                 : Free                                     # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_description                           : No more bad dates.
+app_description                           : Choose better. Date Smarter.
 
 enable_smart_app_banner                   : true                                      # Set to true to show a smart app banner at top of page on mobile devices.
 
@@ -22,10 +22,10 @@ enable_smart_app_banner                   : true                                
 your_name                                 : Multiverse Studios                             
 your_link                                 :                    
 your_city                                 :                                 
-email_address                             : support@gratedate.app
-facebook_username                         :                                           
-instagram_username                        : 
-twitter_username                          : 
+email_address                             : contact@gratedate.app
+facebook_username                         : Gratedate                                          
+instagram_username                        : /grate_date
+twitter_username                          : grate_date
 github_username                           : 
 youtube_username                          :
 
@@ -34,46 +34,21 @@ youtube_username                          :
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
 
-  - title                                 : GitHub Pages Jekyll Theme
-    description                           : Designed for GitHub Pages. Fork. Edit _config.yml. Upload screenshot/video. Push to gh-pages branch. Voilá!
-    fontawesome_icon_name                 : magic
-    
-  - title                                 : iPhone Device Preview
-    description                           : Preview your app in the context of an iPhone device. Five different device colors included.
-    fontawesome_icon_name                 : mobile
+  - title                                 : Select your dating priorities.
+    description                           : Select the dating priorities that matter to you.
+    fontawesome_icon_name                 : list-ul
 
-  - title                                 : Video Support
-    description                           : Preview app video on the iPhone device simply by placing your video files in the videos folder.
-    fontawesome_icon_name                 : play-circle
-
-  - title                                 : Automatic Icon and Metadata
-    description                           : Enter iOS app ID in the _config.yml file to automatically fetch app icon, price and App Store Link.
-    fontawesome_icon_name                 : sync
-
-  - title                                 : Easy to Tweak
-    description                           : Tweak accent color, images, icons and transparency via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name                 : adjust
+  - title                                 : Better R  ating
+    description                           : Rate the your partners based on psychologically curated questions
+    fontawesome_icon_name                 : smile
   
-  - title                                 : Feature List
-    description                           : Add features (like this one) to your site via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name                 : star
+  - title                                 : Keep track of your dating history
+    description                           : Track your dates overtime and view details about each date.
+    fontawesome_icon_name                 : history
 
-  - title                                 : Smart App Banner
-    description                           : Display a smart app banner on iOS devices.
-    fontawesome_icon_name                 : arrow-alt-circle-down
-
-  - title                                 : Social Links
-    description                           : Easily add social media accounts and contact info in the footer via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name                 : link
-
-  - title                                 : FontAwesome Support
-    description                           : Pick custom Font Awesome icons for the feature list via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name                 : info-circle
-
-  - title                                 : # New Feature Title
-    description                           : # New Feature Description
-    fontawesome_icon_name                 : # Enter Font Awesome icon name (e.g. star). Find icons on fontawesome.com/icons.
-
+  - title                                 : Compare Dates
+    description                           : Compare and analyze your dates and see who ranks at the top.
+    fontawesome_icon_name                 : users
 
 
 # Theme Settings

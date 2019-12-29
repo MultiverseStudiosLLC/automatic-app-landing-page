@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Terms & Conditions
-include_in_header: false
+title: Our Terms
+include_in_header: true
 ---
 
 # Terms & Conditions of Use
@@ -70,7 +70,7 @@ company.
 
 2.2 How to contact us
 
-You can contact us by emailing contact\@gratedate.app .
+You can contact us by emailing <contact@gratedate.app>.
 
 2.3 How we may contact you
 
@@ -408,7 +408,7 @@ Subscription payment.
 
 If you have any questions or complaints about the Subscription, please
 contact us. You can email our customer service team at
-contact\@gratedate.app.
+<contact@gratedate.app>.
 
 # 12 Price and Payment
 
@@ -627,7 +627,7 @@ respect to the App.
 All inquiries regarding Subscriptions or billing should be directed to
 the source from which you downloaded the App (Apple Store or Google
 Play). All inquiries regarding Content should be directed to the Company
-at contact\@gratedate.app.
+at <contact@gratedate.app>.
 
 MOBILE APPLICATION PRIVACY POLICY
 
@@ -674,7 +674,7 @@ children under 13. If we learn we have collected or received personal
 information from a child under 13 without verification of parental
 consent, we will delete that information. If you believe we might have
 any information from or about a child under 13, please contact us at
-contact\@gratedate.app.
+<contact@gratedate.app>.
  
 # 3 Information we collect and how we collect it
 
