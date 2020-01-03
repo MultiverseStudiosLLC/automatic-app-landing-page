@@ -12,7 +12,7 @@ presskit_download_link                    :                                     
 app_icon                                  : assets/appicon.png                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
 app_name                                  : GrateDate                                       # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price                                 : Free                                     # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_description                           : Choose better. Date Smarter.
+app_description                           : Choose Better. Date Smarter.
 
 enable_smart_app_banner                   : true                                      # Set to true to show a smart app banner at top of page on mobile devices.
 
@@ -39,16 +39,25 @@ features                                  :
     fontawesome_icon_name                 : list-ul
 
   - title                                 : Better Rating
-    description                           : Rate the your partners based on psychologically curated questions
+    description                           : Rate your partners based on psychologically curated questions.
     fontawesome_icon_name                 : smile
   
-  - title                                 : Keep track of your dating history
-    description                           : Track your dates overtime and view details about each date.
+  - title                                 : Journal and Keep Track
+    description                           : Keep a running journal for each date and remember the details.
     fontawesome_icon_name                 : history
 
   - title                                 : Compare Dates
-    description                           : Compare and analyze your dates and see who ranks at the top.
+    description                           : Compare between your dates and see who ranks at the top.
     fontawesome_icon_name                 : users
+
+  - title                                 : Analyze the Trends
+    description                           : See if one of your dates is trending up or down.
+    fontawesome_icon_name                 : poll-h
+
+  - title                                 : Stay Inspired 
+    description                           : A quote every day feeds your brain. 
+    fontawesome_icon_name                 : quote-right
+
 
 
 # Theme Settings
