@@ -6,7 +6,7 @@ include_in_header: true
 
 # What's New
 
-We have plans for additional feature, but we want to hear from you! What features would you like? You can send us feedback by emailing <contact@gratedate.app>.
+We have plans for additional features, but we want to hear from you! What features would you like? You can send us feedback by emailing <contact@gratedate.app>.
 
 Here is the current feature set for version 1.0 available on the Apple App store.
 
