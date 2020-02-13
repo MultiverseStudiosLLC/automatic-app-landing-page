@@ -52,10 +52,6 @@ features:
     description: See how your date is trending and evaluate their strengths and weaknesses.
     fontawesome_icon_name: poll-h
 
-  - title: Stay Inspired
-    description: A quote every day feeds your brain.
-    fontawesome_icon_name: quote-right
-
   - title: Dating Uppers
     description: See how many positive qualities your dates have.
     fontawesome_icon_name: thumbs-up
